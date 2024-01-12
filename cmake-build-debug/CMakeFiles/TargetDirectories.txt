@@ -1,0 +1,3 @@
+C:/Users/NashW/CLionProjects/Medicine_Tracker/cmake-build-debug/CMakeFiles/Medicine_Tracker.dir
+C:/Users/NashW/CLionProjects/Medicine_Tracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NashW/CLionProjects/Medicine_Tracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir

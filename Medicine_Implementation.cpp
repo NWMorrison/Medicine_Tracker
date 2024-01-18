@@ -774,6 +774,8 @@ int menus::report_Menu()
             data.patient_Report();
             break;
         case 2:
+            // Visual_Cal Should also write into file along with writing out to console. This is why it was not showing
+            // up in the file itself. Will work on this soon.
             cal.visual_Calendar_By_Month(global_Var_Month,global_Var_Year);
             data.date_And_Time_Report();
             break;

@@ -51,8 +51,8 @@
 
 
 // Global Variables to set the specific month and year that we want to work in.
-int global_Var_Month;
-int global_Var_Year;
+int global_Var_Month = 0;
+int global_Var_Year = 0;
 
 class calendar
         {
@@ -64,6 +64,9 @@ class calendar
             static int number_Of_Days_For_Months(int, int);
             static int day_Number(int, int, int);
             static void visual_Calendar_By_Year(int);
+
+            // Visual_Cal Should also write into file along with writing out to console. This is why it was not showing
+            // up in the file itself. Will work on this soon.
             static void visual_Calendar_By_Month(int, int);
 
             ///This should be after the login menu, but before the main menu???? not fucking sure tbh...///

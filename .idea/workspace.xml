@@ -69,6 +69,11 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Medicine_Tracker" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Medicine_Tracker" TARGET_NAME="Medicine_Tracker" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Medicine_Tracker" RUN_TARGET_NAME="Medicine_Tracker">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -118,6 +123,8 @@
       <workItem from="1705028021548" duration="6000" />
       <workItem from="1705028694977" duration="34000" />
       <workItem from="1705028857679" duration="9000" />
+      <workItem from="1705560357894" duration="3000" />
+      <workItem from="1705560363100" duration="142000" />
     </task>
     <servers />
   </component>

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/NashW/CLionProjects/Medicine_Tracker/cmake-build-debug",
-		"source" : "C:/Users/NashW/CLionProjects/Medicine_Tracker"
+		"build" : "C:/Users/NashW/CLionProjects/Medicine_Tracker/Medicine_Tracker/cmake-build-debug",
+		"source" : "C:/Users/NashW/CLionProjects/Medicine_Tracker/Medicine_Tracker"
 	},
 	"version" : 
 	{

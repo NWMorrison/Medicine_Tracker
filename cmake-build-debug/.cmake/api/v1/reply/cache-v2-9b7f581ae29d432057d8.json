@@ -154,7 +154,7 @@
 					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Users/NashW/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/233.13135.93/bin/mingw/bin/g++.exe"
 		},
 		{
@@ -298,7 +298,7 @@
 					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Users/NashW/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/233.13135.93/bin/mingw/bin/gcc.exe"
 		},
 		{

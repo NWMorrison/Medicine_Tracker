@@ -575,7 +575,7 @@ int testing::test()
 }
 
 ///Testing modifying data from our file.///
-void data_Patient::modify_function_test()
+/*void data_Patient::modify_function_test()
 {
     std::string n;
     int found = 0;
@@ -614,10 +614,10 @@ void data_Patient::modify_function_test()
     {
         std::cout << "\n\t\t  Record Does Not Exist: ";
     }
-}
+}*/
 
 ///Currently Testing///
-int data_Patient::get_vector_Test(std::string test)
+/*int data_Patient::get_vector_Test(std::string test)
 {
     for (int i = 0; i < date.size(); i++)
     {
@@ -630,7 +630,7 @@ int data_Patient::get_vector_Test(std::string test)
             return 1;
         }
     }
-}
+}*/
 ///---------------------------------------------Class Tests End------------------------------------------------------///
 ///------------------------------------------------------------------------------------------------------------------///
 

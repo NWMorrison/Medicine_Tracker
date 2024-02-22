@@ -176,8 +176,8 @@ class data_Patient:public month
 
 
             ///Currently Testing///
-            void modify_function_test(); // Testing function that will modify date and time in our file.
-            int get_vector_Test(std::string); // Using for memory location to modify vector data.
+            // void modify_function_test(); // Testing function that will modify date and time in our file.
+            // int get_vector_Test(std::string); // Using for memory location to modify vector data.
 
 }; // End Data_Patient Class.
 

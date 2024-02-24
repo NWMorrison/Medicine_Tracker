@@ -43,4 +43,4 @@
 
 
 # Medicine_Tracker
- Passion Project
+ Passion Project: This program once complete will be able to track your medicines, patient information, doctor information, and other valuable information to be saved into seperate month files so you can look back and see the times and checking if you took all of your medicine.
